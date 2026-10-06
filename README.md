@@ -38,4 +38,4 @@ plus a metric-selector slicer to switch the measure displayed across charts.
 - 
 ## dataset used:
 <a href=https://github.com/vasu2307/blinkit-data-analytics-dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx>"excel file<a/>
-https://github.com/vasu2307/blinkit-data-analytics-dashboard/blob/main/data%20analysis%20dashboards.pbix
+<a href=https://github.com/vasu2307/blinkit-data-analytics-dashboard/blob/main/data%20analysis%20dashboards.pbix>"view dashboard<a/>
