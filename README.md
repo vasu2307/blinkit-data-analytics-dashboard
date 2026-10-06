@@ -43,7 +43,7 @@ plus a metric-selector slicer to switch the measure displayed across charts.
 ## dashboard:
 <img width="1231" height="697" alt="Screenshot 2026-10-06 120044" src="https://github.com/user-attachments/assets/52318de6-4c05-45cb-8879-8224fddfa2b7" />
 
-## Project Insights
+## Project Insights:
 Dataset covers 8,523 Blinkit grocery items across multiple outlets.
 Total Sales: $1.20M.
 Average Sales per item: $141.
@@ -74,4 +74,36 @@ Ratings are uniform (~3.9) across all categories and outlets.
 Meat has the best rating (3.98).
 Breads has the lowest rating (3.83).
 Revenue differences come from sales volume, not price or ratings.
+
+## Final Conclusion:
+The dashboard analyzes Blinkit grocery sales by item, outlet and location.
+Total sales reached $1.20M from 8,523 items.
+Sales are driven by volume, not by price.
+Average sales per item stay near $141 in every segment.
+Customer ratings are steady at about 3.9 out of 5.
+Ratings alone do not explain sales differences.
+Low Fat products are the clear customer favorite.
+They deliver nearly 65% of total revenue.
+Fruits & Vegetables and Snack Foods are the top categories.
+Household and Dairy earn the most per item sold.
+A few categories drive most of the revenue.
+Seafood, Breakfast and Starchy Foods add very little.
+Medium-sized outlets perform best.
+Tier 3 cities show the strongest demand.
+Tier 2 cities also offer solid growth potential.
+Supermarket Type 1 is the most successful outlet format.
+Grocery Stores and other supermarket types lag far behind.
+Recommendation: stock more high-volume categories.
+Recommendation: promote Low Fat products.
+Recommendation: expand into Tier 2 and Tier 3 cities.
+Recommendation: invest in Medium Supermarket Type 1 outlets.
+Recommendation: review low-performing categories.
+Recommendation: improve service quality to lift ratings above 3.9.
+Limitation: the data is a single snapshot with no date field.
+Limitation: true time-based trends cannot be measured.
+Limitation: about 17% of Item Weight values are missing.
+Power BI slicers make exploring each segment easy.
+KPI cards, charts and a matrix give a complete business view.
+The insights support smarter inventory and expansion decisions.
+Overall, focusing on the right products, outlets and cities can grow sales.
 
